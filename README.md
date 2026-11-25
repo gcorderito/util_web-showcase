@@ -93,6 +93,14 @@ Las siguientes imágenes corresponden a interfaces del sistema y se incorporará
 
 > Se recomienda almacenar las imágenes dentro de `docs/screenshots/`.
 
+### Bienvenida
+
+![Pantalla de Bienvenida](docs/screenshots/pantalla_bienvenida.png)
+
+### Login
+
+![Pantalla de inicio de sesión](docs/screenshots/login.png)
+
 ### Gestión de socios
 
 ![Formulario de gestión de socios](docs/screenshots/gestion-socios.png)
