@@ -123,7 +123,7 @@ Las siguientes imágenes corresponden a interfaces del sistema y se incorporará
 
 ### Detalle Solicitud de crédito
 
-![Detalle de solicitudes de crédito](docs/screenshots/solicitudes-credito-detalle.png)
+![Detalle de solicitudes de crédito](docs/screenshots/solicitudes-credito-show.png)
 
 ### Generación de documentos
 
