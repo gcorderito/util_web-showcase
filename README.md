@@ -131,9 +131,9 @@ Las siguientes imágenes corresponden a interfaces del sistema y se incorporará
 
 ## Consideraciones
 
-Este repositorio tiene fines demostrativos y documentales. El código fuente original no se encuentra publicado, debido a que corresponde a un proyecto de carácter comercial.
+Este repositorio tiene fines demostrativos y documentales. El código fuente original no se encuentra publicado en un repositorio público, debido a que corresponde a un proyecto de carácter comercial.
 
-Las capturas incluidas deben utilizar exclusivamente información ficticia o debidamente anonimizada.
+En las capturas incluidas se utilizó exclusivamente información ficticia o debidamente anonimizada.
 
 ---
 
