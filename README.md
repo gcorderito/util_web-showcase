@@ -1,5 +1,3 @@
-# util_web-showcase
-
 # Sistema de Gestión de Crédito para Cooperativas de Ahorro y Crédito
 
 Aplicación web desarrollada para administrar información de socios y gestionar solicitudes de crédito dentro de una Cooperativa de Ahorro y Crédito. El sistema centraliza la información personal y laboral de los socios, permite configurar productos crediticios y facilita la generación de documentación asociada a las solicitudes.
@@ -91,8 +89,6 @@ Desarrollo individual del sistema, incluyendo:
 
 Las siguientes imágenes corresponden a interfaces del sistema y se incorporarán con información anonimizada.
 
-> Se recomienda almacenar las imágenes dentro de `docs/screenshots/`.
-
 ### Bienvenida
 
 ![Pantalla de Bienvenida](docs/screenshots/pantalla_bienvenida.png)
@@ -100,6 +96,14 @@ Las siguientes imágenes corresponden a interfaces del sistema y se incorporará
 ### Login
 
 ![Pantalla de inicio de sesión](docs/screenshots/login.png)
+
+### Menú Principal
+
+![Opciones de cuenta de usuario](docs/screenshots/menu-principal.png)
+
+### Cuenta de usuario
+
+![Opciones de cuenta de usuario](docs/screenshots/micuenta.png)
 
 ### Gestión de socios
 
@@ -116,6 +120,10 @@ Las siguientes imágenes corresponden a interfaces del sistema y se incorporará
 ### Solicitudes de crédito
 
 ![Gestión de solicitudes de crédito](docs/screenshots/solicitudes-credito.png)
+
+### Detalle Solicitud de crédito
+
+![Detalle de solicitudes de crédito](docs/screenshots/solicitudes-credito-detalle.png)
 
 ### Generación de documentos
 
